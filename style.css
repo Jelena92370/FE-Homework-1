@@ -1,0 +1,8 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px; color: white;
+    background-color: #34495E;
+    border: 3px solid none; 
+    border-radius: 20px;
+    padding: 21px;
+}
